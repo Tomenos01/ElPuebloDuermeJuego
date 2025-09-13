@@ -1,0 +1,6 @@
+@ElPuebloDuermeDemo_HostAddress = http://localhost:5063
+
+GET {{ElPuebloDuermeDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
