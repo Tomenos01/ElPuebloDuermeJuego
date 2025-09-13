@@ -20,7 +20,6 @@ builder.Services.AddSwaggerGen(c =>
         Description = "API backend para el juego El Pueblo Duerme"
     });
 });
-    
 // SignalR
 builder.Services.AddSignalR();
 
